@@ -26,6 +26,3 @@ function mousePressed () {
     }
 console.log('wordIndex:' + wordIndex)
 }
-
-    
-    
